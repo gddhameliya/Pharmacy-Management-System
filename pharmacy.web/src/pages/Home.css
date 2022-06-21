@@ -1,0 +1,23 @@
+.ant-layout-sider-trigger {
+	background: #fff !important;
+	color: black;
+}
+
+.ant-layout-header,
+.site-layout-background {
+	background: #fff !important;
+	padding: 0;
+}
+
+.ant-menu-sub.ant-menu-inline > .ant-menu-item,
+.ant-menu-sub.ant-menu-inline > .ant-menu-submenu > .ant-menu-submenu-title,
+.ant-menu-sub.ant-menu-inline {
+	background: #fff !important;
+}
+.ant-layout-header,
+.site-layout-background,
+.ant-layout-sider-children,
+.ant-layout-sider-trigger,
+.ant-layout-sider-children {
+	box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px !important;
+}
